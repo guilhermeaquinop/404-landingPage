@@ -1,6 +1,6 @@
 <h1>Hello! 👋</h1>
 
-This project I developed from the project developed by <strong>github.com/bedimcode</strong>, to practice my skills with html, css and javascript. In addition to new technologies that make up the landing page UI.
+This project I developed to practice my skills with html, css and javascript. In addition to new technologies that make up the landing page UI.
 
 If you want access to the project, click on this link: https://responsive-landingpage-404-guilhermedev.vercel.app/
 
